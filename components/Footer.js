@@ -27,15 +27,34 @@ export default function Footer() {
           </p>
         </div>
         <div className="flex flex-row justify-center gap-x-8">
-          {[<FaInstagram />, <FaGithub />, <FaTwitter />, <FaLinkedinIn />].map(
-            (icon, idx) => (
-              <Link key={idx} href="https://github.com/serifcolakel">
-                <a target="blank" className="text-3xl hover:text-red-600">
-                  {icon}
-                </a>
-              </Link>
-            )
-          )}
+          {[
+            {
+              icon: <FaInstagram />,
+              href: "https://github.com/serifcolakel",
+              key: "instagram",
+            },
+            {
+              icon: <FaGithub />,
+              href: "https://github.com/serifcolakel",
+              key: "FaGithub",
+            },
+            {
+              icon: <FaTwitter />,
+              href: "https://github.com/serifcolakel",
+              key: "FaTwitter",
+            },
+            {
+              icon: <FaLinkedinIn />,
+              href: "https://github.com/serifcolakel",
+              key: "FaLinkedinIn",
+            },
+          ].map((item, idx) => (
+            <Link key={item.key + idx} href={item.href}>
+              <a target="blank" className="text-3xl hover:text-red-600">
+                {item.icon}
+              </a>
+            </Link>
+          ))}
         </div>
       </div>
     </footer>
