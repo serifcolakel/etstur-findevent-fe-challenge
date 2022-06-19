@@ -1,7 +1,11 @@
 import Head from "next/head";
+import Card from "../components/Card";
+import Map from "../components/Map";
 import styles from "../styles/Home.module.css";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
-export default function Home() {
+export default function Home({ data }) {
   return (
     <div className={styles.container}>
       <Head>
@@ -11,8 +15,20 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <Map data={data} />
+        <Card />
         <p className="text-red-600 text-2xl font-bold">Test</p>
       </main>
     </div>
   );
+}
+export async function getStaticProps() {
+  let data = await fetch(
+    `${process.env.NEXT_PUBLIC_BASE_URL}/api/location`
+  ).then((res) => res.json());
+  return {
+    props: {
+      data,
+    },
+  };
 }

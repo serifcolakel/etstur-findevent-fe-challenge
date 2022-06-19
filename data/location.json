@@ -1,0 +1,3359 @@
+[
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Kadıköy",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 40.9626,
+            "lon": 29.1104,
+            "radius": 0
+        },
+        "id": "sxk9n2vzhy5v",
+        "name": "Park Dedeman Bostancı",
+        "url": "/Park-Dedeman-Bostanci?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 13918.05,
+            "currency": "TRY",
+            "originalAmount": 772.65,
+            "originalCurrency": "EUR"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/96ddb73aca885e5a7d4d9e74ef1497d1.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/96ddb73aca885e5a7d4d9e74ef1497d1.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/96ddb73aca885e5a7d4d9e74ef1497d1.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.4
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Pendik",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 40.872859,
+            "lon": 29.251949,
+            "radius": 0
+        },
+        "id": "sxkb98s96y7d",
+        "name": "The Green Park Pendik",
+        "url": "/The-Green-Park-Pendik?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 9005.59,
+            "currency": "TRY",
+            "originalAmount": 504.99,
+            "originalCurrency": "EUR"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/hxf1rayt7jkldyjlz6xs.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/hxf1rayt7jkldyjlz6xs.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/hxf1rayt7jkldyjlz6xs.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 7.6
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Beşiktaş",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Gayrettepe"
+        },
+        "geoLocation": {
+            "lat": 41.0641,
+            "lon": 29.01,
+            "radius": 0
+        },
+        "id": "sxk9s5s25dqj",
+        "name": "Dedeman Istanbul",
+        "url": "/Dedeman-Istanbul?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 13759.99,
+            "currency": "TRY",
+            "originalAmount": 787.5,
+            "originalCurrency": "EUR"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9RGlzLUNlcGhl_20210511140711.jpeg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9RGlzLUNlcGhl_20210511140711.jpeg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9RGlzLUNlcGhl_20210511140711.jpeg"
+        ],
+        "score": {
+            "text": "GOOD",
+            "point": 7.4
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Maltepe",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 40.91507,
+            "lon": 29.1339789,
+            "radius": 0
+        },
+        "id": "sxk8ybqewcv5",
+        "name": "Cevahir Hotel İstanbul Asia",
+        "url": "/Cevahir-Hotel-Istanbul-Asia?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 10462.13,
+            "currency": "TRY",
+            "originalAmount": 598.76,
+            "originalCurrency": "EUR"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/23ef56d7eb009c765e89624545f467f8.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/23ef56d7eb009c765e89624545f467f8.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/23ef56d7eb009c765e89624545f467f8.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.4
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Bağcılar",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 41.0627972,
+            "lon": 28.8444944,
+            "radius": 0
+        },
+        "id": "sxk98735f96p",
+        "name": "Ever Otel Avrupa",
+        "url": "/Ever-Otel-Avrupa?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 7773.01,
+            "currency": "TRY",
+            "originalAmount": 440.32,
+            "originalCurrency": "EUR"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/htljmkgflpgupeojascp.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/htljmkgflpgupeojascp.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/htljmkgflpgupeojascp.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.2
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Şişli",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 41.051,
+            "lon": 28.9873,
+            "radius": 0
+        },
+        "id": "sxk9e95gkptn",
+        "name": "Ramada Plaza By Wyndham Istanbul City Center",
+        "url": "/Ramada-Plaza-By-Wyndham-Istanbul-City-Center?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 22410,
+            "currency": "TRY",
+            "originalAmount": 22410,
+            "originalCurrency": "TRY"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9MTU5MzRfZXh0ZXJpb3Jfdmlld18x_20220126143338.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9MTU5MzRfZXh0ZXJpb3Jfdmlld18x_20220126143338.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9MTU5MzRfZXh0ZXJpb3Jfdmlld18x_20220126143338.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.4
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Ataşehir",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 40.975681,
+            "lon": 29.14849,
+            "radius": 0
+        },
+        "id": "sxk9p73k9h96",
+        "name": "Cityloft 161",
+        "url": "/Cityloft-161?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 7652.05,
+            "currency": "TRY",
+            "originalAmount": 424.8,
+            "originalCurrency": "EUR"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/h7vvh48wzcnqcfsvhqrx.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/h7vvh48wzcnqcfsvhqrx.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/h7vvh48wzcnqcfsvhqrx.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.1
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Kadıköy",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 40.9622,
+            "lon": 29.1104,
+            "radius": 0
+        },
+        "id": "sxk9n2vzjkd4",
+        "name": "Dedeman Bostancı Hotel and Convention Center",
+        "url": "/Dedeman-Bostanci-Hotel-And-Convention-Center?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 15296.08,
+            "currency": "TRY",
+            "originalAmount": 849.15,
+            "originalCurrency": "EUR"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9QmluYS1BMQ_20211223174700.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9QmluYS1BMQ_20211223174700.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9QmluYS1BMQ_20211223174700.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.5
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Ataşehir",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 40.9755,
+            "lon": 29.1507,
+            "radius": 0
+        },
+        "id": "sxk9p76g1ts4",
+        "name": "Residence Inn by Marriott Istanbul Atasehir",
+        "url": "/Residence-Inn-By-Marriott-Istanbul-Atasehir?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 12392.48,
+            "currency": "TRY",
+            "originalAmount": 702,
+            "originalCurrency": "EUR"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9cnN6XzExcmlfaXN0cmlfZXh0ZXJpb3JfMV92Mg_20211106153918.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9cnN6XzExcmlfaXN0cmlfZXh0ZXJpb3JfMV92Mg_20211106153918.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9cnN6XzExcmlfaXN0cmlfZXh0ZXJpb3JfMV92Mg_20211106153918.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.1
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Ümraniye",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 41.0251682,
+            "lon": 29.1032106,
+            "radius": 0
+        },
+        "id": "58dc32ebdd8e",
+        "name": "Doubletree by Hilton İstanbul Ümraniye",
+        "url": "/Doubletree-By-Hilton-Istanbul-Umraniye?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 15660,
+            "currency": "TRY",
+            "originalAmount": 15660,
+            "originalCurrency": "TRY"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9MmQzYTliOGJjNjk3YjYzMWYxOTNmOTkyODc2YTk5ZDMtMTYyNTgzMDcwNTc2Nw_20211028103014.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9MmQzYTliOGJjNjk3YjYzMWYxOTNmOTkyODc2YTk5ZDMtMTYyNTgzMDcwNTc2Nw_20211028103014.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9MmQzYTliOGJjNjk3YjYzMWYxOTNmOTkyODc2YTk5ZDMtMTYyNTgzMDcwNTc2Nw_20211028103014.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.8
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Tuzla",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 40.8562,
+            "lon": 29.2797,
+            "radius": 0
+        },
+        "id": "sxkb6m8u6pzq",
+        "name": "Holiday Inn İstanbul Tuzla Bay",
+        "url": "/Holiday-Inn-Istanbul-Tuzla-Bay?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ljmqrke2olmhtqegsxgy.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ljmqrke2olmhtqegsxgy.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ljmqrke2olmhtqegsxgy.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.1
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Ataşehir",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 40.9779265,
+            "lon": 29.14435019999999,
+            "radius": 0
+        },
+        "id": "sxk9p5y38x4t",
+        "name": "Cityloft 64",
+        "url": "/Cityloft-64?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 6556.88,
+            "currency": "TRY",
+            "originalAmount": 364,
+            "originalCurrency": "EUR"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/pt9e7yuaj6usj25ngro8.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/pt9e7yuaj6usj25ngro8.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/pt9e7yuaj6usj25ngro8.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 7.6
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Ataşehir",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 41.0005683,
+            "lon": 29.1366798,
+            "radius": 0
+        },
+        "id": "sxk9ppbtketr",
+        "name": "Bof Hotels Ceo Suites Ataşehir",
+        "url": "/Bof-Hotels-Ceo-Suites-Atasehir?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 13320,
+            "currency": "TRY",
+            "originalAmount": 13320,
+            "originalCurrency": "TRY"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/eb77fmxwqbim1zbf7e5b.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/eb77fmxwqbim1zbf7e5b.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/eb77fmxwqbim1zbf7e5b.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 7.6
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Şişli",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Mecidiyeköy"
+        },
+        "geoLocation": {
+            "lat": 41.0662049,
+            "lon": 29.002519,
+            "radius": 0
+        },
+        "id": "sxk9egzhcnnf",
+        "name": "Divan İstanbul City",
+        "url": "/Divan-Istanbul-City?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 17746.66,
+            "currency": "TRY",
+            "originalAmount": 1005.3,
+            "originalCurrency": "EUR"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/m4mpi4n8knhhh4jo8qpa.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/m4mpi4n8knhhh4jo8qpa.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/m4mpi4n8knhhh4jo8qpa.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Ataşehir",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 40.97845345221051,
+            "lon": 29.1427031904459,
+            "radius": 0
+        },
+        "id": "sxk9p5vhf1qs",
+        "name": "Cityloft 81",
+        "url": "/Cityloft-81?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 7104.48,
+            "currency": "TRY",
+            "originalAmount": 394.4,
+            "originalCurrency": "EUR"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ttcf2r7bktwqfeiefioi.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ttcf2r7bktwqfeiefioi.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ttcf2r7bktwqfeiefioi.jpg"
+        ],
+        "score": {
+            "text": "GOOD",
+            "point": 7.4
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Sarıyer",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 41.1613,
+            "lon": 29.0454,
+            "radius": 0
+        },
+        "id": "sxkdhvnnp3z3",
+        "name": "Fuat Paşa Yalısı",
+        "url": "/Fuat-Pasa-Yalisi?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/m8jemcr00hmxbngjcfoh.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/m8jemcr00hmxbngjcfoh.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/m8jemcr00hmxbngjcfoh.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.1
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Şişli",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 41.0681,
+            "lon": 28.9847,
+            "radius": 0
+        },
+        "id": "sxk9es4p0bey",
+        "name": "Ramada Hotel & Suites Şişli By Wyndham",
+        "url": "/Ramada-Hotel-Suites-Sisli-By-Wyndham?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 12591,
+            "currency": "TRY",
+            "originalAmount": 12591,
+            "originalCurrency": "TRY"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/hfchel4uoo8x7f8peeby.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/hfchel4uoo8x7f8peeby.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/hfchel4uoo8x7f8peeby.jpg"
+        ],
+        "score": {
+            "text": "GOOD",
+            "point": 7.4
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Polonezköy",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 41.1108,
+            "lon": 29.2069,
+            "radius": 0
+        },
+        "id": "sxkf48zzrjjk",
+        "name": "Village Park Resort & Spa",
+        "url": "/Village-Park-Resort-Spa?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 6467.02,
+            "currency": "TRY",
+            "originalAmount": 6467.02,
+            "originalCurrency": "TRY"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/wvxq6gk2gi9wjxrws7se.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/wvxq6gk2gi9wjxrws7se.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/wvxq6gk2gi9wjxrws7se.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 7.6
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Ataşehir",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 40.9803,
+            "lon": 29.107,
+            "radius": 0
+        },
+        "id": "sxk9nk5pwct7",
+        "name": "TRYP by Wyndham Ataşehir",
+        "url": "/Tryp-By-Wyndham-Atasehir?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 12150,
+            "currency": "TRY",
+            "originalAmount": 12150,
+            "originalCurrency": "TRY"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9MTI_20210809145235.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9MTI_20210809145235.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9MTI_20210809145235.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.7
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "İstanbul",
+            "country": "Türkiye",
+            "state": "Şile",
+            "distance": 0,
+            "region": "Marmara Bölgesi",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 41.1750397,
+            "lon": 29.6085431,
+            "radius": 0
+        },
+        "id": "sxm41xrrfbmd",
+        "name": "The Sign Değirmen Otel",
+        "url": "/The-Sign-Degirmen-Otel?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 9319.5,
+            "currency": "TRY",
+            "originalAmount": 9319.5,
+            "originalCurrency": "TRY"
+        },
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "totalNightCount": 9,
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/integration/TR/215192/m/ZmlsZU5hbWU9ZGVncmltZW4_20220607132542.jpeg",
+            "https://images.etstur.com/files/images/hotelImages/integration/TR/215192/m/ZmlsZU5hbWU9ZGVncmltZW4_20220607132542.jpeg",
+            "https://images.etstur.com/files/images/hotelImages/integration/TR/215192/m/ZmlsZU5hbWU9ZGVncmltZW4_20220607132542.jpeg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.2
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Antakya",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.2744857,
+            "lon": 36.2269637,
+            "radius": 0
+        },
+        "id": "swr703deft19",
+        "name": "Antakya Ottoman Palace Thermal Resort",
+        "url": "/Antakya-Ottoman-Palace-Thermal-Resort?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 15817.5,
+            "currency": "TRY",
+            "originalAmount": 15817.5,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/test/TR/51071/m/Genel-12.jpg",
+            "https://images.etstur.com/files/images/hotelImages/test/TR/51071/m/Genel-12.jpg",
+            "https://images.etstur.com/files/images/hotelImages/test/TR/51071/m/Genel-12.jpg",
+            "https://images.etstur.com/files/images/hotelImages/test/TR/51071/m/Genel-12.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.5
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Antakya",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.2117982,
+            "lon": 36.1731685,
+            "radius": 0
+        },
+        "id": "sy3wp0hmpbmq",
+        "name": "The Museum Hotel Antakya",
+        "url": "/The-Museum-Hotel-Antakya?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 27019.95,
+            "currency": "TRY",
+            "originalAmount": 1500,
+            "originalCurrency": "EUR"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9MTExMTE_20211102201435.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9MTExMTE_20211102201435.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9MTExMTE_20211102201435.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9MTExMTE_20211102201435.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.5
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Erzin",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.9518,
+            "lon": 36.2504,
+            "radius": 0
+        },
+        "id": "sy9f0vnq4zcb",
+        "name": "Hattuşa Vacation Thermal Clup Erzin",
+        "url": "/Hattusa-Vacation-Termal-Club-Erzin?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 18000,
+            "currency": "TRY",
+            "originalAmount": 18000,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9ZmUwYTNmYmYtNzkxMS00ZDlkLWE5MTQtODQ3Y2MzMzcyZDVm_20220603140136.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9ZmUwYTNmYmYtNzkxMS00ZDlkLWE5MTQtODQ3Y2MzMzcyZDVm_20220603140136.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9ZmUwYTNmYmYtNzkxMS00ZDlkLWE5MTQtODQ3Y2MzMzcyZDVm_20220603140136.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9ZmUwYTNmYmYtNzkxMS00ZDlkLWE5MTQtODQ3Y2MzMzcyZDVm_20220603140136.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Arsuz",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.4163,
+            "lon": 35.898,
+            "radius": 0
+        },
+        "id": "sy3x0vkhk79z",
+        "name": "Elada Luxury Otel",
+        "url": "/Elada-Luxury-Otel?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 10687.5,
+            "currency": "TRY",
+            "originalAmount": 10687.5,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9ZWxhZGFzbGlkZXIx_20210326191857.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9ZWxhZGFzbGlkZXIx_20210326191857.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9ZWxhZGFzbGlkZXIx_20210326191857.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9ZWxhZGFzbGlkZXIx_20210326191857.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.1
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Arsuz",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.3722299,
+            "lon": 35.8570137,
+            "radius": 0
+        },
+        "id": "sy3qzvq78gp6",
+        "name": "Hotel Palm Beach Arsuz",
+        "url": "/Hotel-Palm-Beach-Arsuz?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 20520,
+            "currency": "TRY",
+            "originalAmount": 20520,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9SU1HLTIwMjEwOTA3LVdBMDAyMC0tLUtvcHlh_20220419141102.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9SU1HLTIwMjEwOTA3LVdBMDAyMC0tLUtvcHlh_20220419141102.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9SU1HLTIwMjEwOTA3LVdBMDAyMC0tLUtvcHlh_20220419141102.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9SU1HLTIwMjEwOTA3LVdBMDAyMC0tLUtvcHlh_20220419141102.jpg"
+        ],
+        "score": {
+            "point": 0
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "İskenderun",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.5891,
+            "lon": 36.1779,
+            "radius": 0
+        },
+        "id": "sy98phzfy5vd",
+        "name": "Ramada İskenderun Harbour",
+        "url": "/Ramada-Iskenderun-Harbour?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 10260,
+            "currency": "TRY",
+            "originalAmount": 10260,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/wr1oroft2tn0wrmon8bf.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/wr1oroft2tn0wrmon8bf.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/wr1oroft2tn0wrmon8bf.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/wr1oroft2tn0wrmon8bf.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 7.7
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "İskenderun",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.5449,
+            "lon": 36.1443,
+            "radius": 0
+        },
+        "id": "sy3xykz3npn9",
+        "name": "Anemon İskenderun",
+        "url": "/Anemon-Iskenderun?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 10827.13,
+            "currency": "TRY",
+            "originalAmount": 601.06,
+            "originalCurrency": "EUR"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/x0qffomo5p4jit4gfxfl.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/x0qffomo5p4jit4gfxfl.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/x0qffomo5p4jit4gfxfl.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/x0qffomo5p4jit4gfxfl.jpg"
+        ],
+        "score": {
+            "text": "GOOD",
+            "point": 7.2
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Antakya",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.1981,
+            "lon": 36.1643,
+            "radius": 0
+        },
+        "id": "sy3tyvwhcq9q",
+        "name": "Le Reve Butik Otel",
+        "url": "/Le-Reve-Butik-Otel?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 10687.5,
+            "currency": "TRY",
+            "originalAmount": 10687.5,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9YXZsdWdlbmVs_20210909120520.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9YXZsdWdlbmVs_20210909120520.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9YXZsdWdlbmVs_20210909120520.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9YXZsdWdlbmVs_20210909120520.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.1
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Antakya",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.1989,
+            "lon": 36.1624,
+            "radius": 0
+        },
+        "id": "sy3tyvu9uupc",
+        "name": "Tetrapole Boutique Hotel",
+        "url": "/Tetrapole-Boutique-Hotel?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 7695,
+            "currency": "TRY",
+            "originalAmount": 7695,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9X01HXzk3NTE_20211217115933.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9X01HXzk3NTE_20211217115933.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9X01HXzk3NTE_20211217115933.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9X01HXzk3NTE_20211217115933.jpg"
+        ],
+        "score": {
+            "point": 0
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Antakya",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.1988,
+            "lon": 36.1634,
+            "radius": 0
+        },
+        "id": "sxk9kkkepj8e",
+        "name": "Affan Boutique Hotel",
+        "url": "/Affan-Boutique-Hotel?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 10260,
+            "currency": "TRY",
+            "originalAmount": 10260,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9aW1hZ2UxNTM_20211210132840.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9aW1hZ2UxNTM_20211210132840.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9aW1hZ2UxNTM_20211210132840.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9aW1hZ2UxNTM_20211210132840.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.7
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Antakya",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.1992264,
+            "lon": 36.161129,
+            "radius": 0
+        },
+        "id": "sy3tyvgdujnd",
+        "name": "The Shahut Hotel",
+        "url": "/The-Shahut-Hotel?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 11756.25,
+            "currency": "TRY",
+            "originalAmount": 11756.25,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/egtrwk3ybuvtc9a81imo.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/egtrwk3ybuvtc9a81imo.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/egtrwk3ybuvtc9a81imo.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/egtrwk3ybuvtc9a81imo.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.1
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Antakya",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.19886009240771,
+            "lon": 36.16059715033191,
+            "radius": 0
+        },
+        "id": "sy3tyvg3duxe",
+        "name": "Waxwing Hotel",
+        "url": "/Waxwing-Hotel?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 13491,
+            "currency": "TRY",
+            "originalAmount": 13491,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/yyvq8jxjbwyty5zuplno.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/yyvq8jxjbwyty5zuplno.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/yyvq8jxjbwyty5zuplno.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/yyvq8jxjbwyty5zuplno.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.4
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "İskenderun",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.58979317093246,
+            "lon": 36.17095224299169,
+            "radius": 0
+        },
+        "id": "sy98phfyurbf",
+        "name": "Altındişler Otel",
+        "url": "/Altindisler-Otel?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 2992.5,
+            "currency": "TRY",
+            "originalAmount": 2992.5,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/rojotdetf7ywaej4yi45.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/rojotdetf7ywaej4yi45.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/rojotdetf7ywaej4yi45.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/rojotdetf7ywaej4yi45.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Antakya",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.2324,
+            "lon": 36.1678,
+            "radius": 0
+        },
+        "id": "sy3wp5bsgzvk",
+        "name": "Anemon Antakya",
+        "url": "/Anemon-Antakya?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 9655.13,
+            "currency": "TRY",
+            "originalAmount": 536,
+            "originalCurrency": "EUR"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/zojp3khc8tnoixiku7c7.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/zojp3khc8tnoixiku7c7.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/zojp3khc8tnoixiku7c7.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/zojp3khc8tnoixiku7c7.jpg"
+        ],
+        "score": {
+            "point": 0
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Antakya",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.2015,
+            "lon": 36.1645,
+            "radius": 0
+        },
+        "id": "sy3tyyq1nb32",
+        "name": "Neccar Otel",
+        "url": "/Neccar-Otel?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 9405,
+            "currency": "TRY",
+            "originalAmount": 9405,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/uvp1u1ye61aw7hqncr11.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/uvp1u1ye61aw7hqncr11.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/uvp1u1ye61aw7hqncr11.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/uvp1u1ye61aw7hqncr11.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.3
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Antakya",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.1985401,
+            "lon": 36.1608389,
+            "radius": 0
+        },
+        "id": "sy3tyverx9qz",
+        "name": "Voyage Elegante Antakya",
+        "url": "/Voyage-Elegante-Antakya?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 6270,
+            "currency": "TRY",
+            "originalAmount": 6270,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9V2hhdHNBcHAtSW1hZ2UtMjAyMS0wNy0wOC1hdC0yMS41OC4yOQ_20210717142022.jpeg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9V2hhdHNBcHAtSW1hZ2UtMjAyMS0wNy0wOC1hdC0yMS41OC4yOQ_20210717142022.jpeg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9V2hhdHNBcHAtSW1hZ2UtMjAyMS0wNy0wOC1hdC0yMS41OC4yOQ_20210717142022.jpeg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9V2hhdHNBcHAtSW1hZ2UtMjAyMS0wNy0wOC1hdC0yMS41OC4yOQ_20210717142022.jpeg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Antakya",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.1306948,
+            "lon": 36.1405731,
+            "radius": 0
+        },
+        "id": "sy3tw3kspvuz",
+        "name": "Grand Mina Hotel",
+        "url": "/Grand-Mina-Hotel?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 5985,
+            "currency": "TRY",
+            "originalAmount": 5985,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/etjmjvk6imvhdhuxaeba.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/etjmjvk6imvhdhuxaeba.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/etjmjvk6imvhdhuxaeba.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/etjmjvk6imvhdhuxaeba.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 7.8
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "İskenderun",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.58579879658622,
+            "lon": 36.17173098028718,
+            "radius": 0
+        },
+        "id": "sy98ph5rwrjw",
+        "name": "Bayazıt Butik Otel",
+        "url": "/Bayazit-Butik-Otel?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 4702.5,
+            "currency": "TRY",
+            "originalAmount": 4702.5,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9NTIzODM5MjI_20211215140331.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9NTIzODM5MjI_20211215140331.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9NTIzODM5MjI_20211215140331.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9NTIzODM5MjI_20211215140331.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.8
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Antakya",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.1970625,
+            "lon": 36.1615625,
+            "radius": 0
+        },
+        "id": "sy3tyvew1jt4",
+        "name": "Nostaljik Suites",
+        "url": "/Nostaljik-Suites?check_in=19.08.2022&check_out=28.08.2022&adult_1=2",
+        "price": {
+            "amount": 10063.27,
+            "currency": "TRY",
+            "originalAmount": 564.3,
+            "originalCurrency": "EUR"
+        },
+        "totalNightCount": 9,
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/rcqvbubddtjxi5cseeov.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/rcqvbubddtjxi5cseeov.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/rcqvbubddtjxi5cseeov.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/rcqvbubddtjxi5cseeov.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 7.7
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Hatay",
+            "country": "Türkiye",
+            "state": "Antakya",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 36.2071455,
+            "lon": 36.1646227,
+            "radius": 0
+        },
+        "id": "sy3tyzq3bv15",
+        "name": "Aren Life Hotel",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/uydufrheuftpxut5bd5t.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/uydufrheuftpxut5bd5t.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/uydufrheuftpxut5bd5t.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/uydufrheuftpxut5bd5t.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.7
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Altındağ",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Ulus"
+        },
+        "geoLocation": {
+            "lat": 39.93746055575241,
+            "lon": 32.86331354509775,
+            "radius": 0
+        },
+        "id": "sxp75y6kddnx",
+        "name": "Divan Ankara Çukurhan",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ishkyoo4ljhoqq3w4elc.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ishkyoo4ljhoqq3w4elc.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ishkyoo4ljhoqq3w4elc.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.1
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Yenimahalle",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 39.9523,
+            "lon": 32.8319,
+            "radius": 0
+        },
+        "id": "sxp77157n962",
+        "name": "CPAnkara Hotel",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 8073.61,
+            "currency": "TRY",
+            "originalAmount": 448.2,
+            "originalCurrency": "EUR"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/pwbc9pwkybjoljx4j8t8.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/pwbc9pwkybjoljx4j8t8.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/pwbc9pwkybjoljx4j8t8.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.8
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Çankaya",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 39.8999,
+            "lon": 32.8595,
+            "radius": 0
+        },
+        "id": "sxp6gxx9bzjp",
+        "name": "Hotel Cinnah",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 6406.56,
+            "currency": "TRY",
+            "originalAmount": 6406.56,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/wf6vyhhwv2jr8srmfacd.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/wf6vyhhwv2jr8srmfacd.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/wf6vyhhwv2jr8srmfacd.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Kızılcahamam",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 40.4641,
+            "lon": 32.6259,
+            "radius": 0
+        },
+        "id": "sxpnnqm2xsnj",
+        "name": "Çam Termal Resort Spa & Convention Center",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 16150,
+            "currency": "TRY",
+            "originalAmount": 16150,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/jdhigl1cdgfrekkc3fqm.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/jdhigl1cdgfrekkc3fqm.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/jdhigl1cdgfrekkc3fqm.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.1
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Çankaya",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 39.928,
+            "lon": 32.8511,
+            "radius": 0
+        },
+        "id": "sxp75s9mqvt9",
+        "name": "Grand Hamit Hotel",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/uqxe3updrxgl0qo9gsdq.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/uqxe3updrxgl0qo9gsdq.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/uqxe3updrxgl0qo9gsdq.jpg"
+        ],
+        "score": {
+            "text": "GOOD",
+            "point": 7.4
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Çankaya",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 39.8996161,
+            "lon": 32.8131191,
+            "radius": 0
+        },
+        "id": "sxp6fxqn5b86",
+        "name": "Ataköşk Group Hotel",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 8991,
+            "currency": "TRY",
+            "originalAmount": 8991,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ox10zehnrai6glxqeagz.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ox10zehnrai6glxqeagz.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ox10zehnrai6glxqeagz.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.7
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Ankara Merkez",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "cyprus": false,
+            "nextState": "Gölbaşı"
+        },
+        "geoLocation": {
+            "lat": 39.832653,
+            "lon": 32.718792,
+            "radius": 0
+        },
+        "id": "sxp68e2crb35",
+        "name": "DoubleTree by Hilton Ankara Incek",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 11346.04,
+            "currency": "TRY",
+            "originalAmount": 629.87,
+            "originalCurrency": "EUR"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://i.travelapi.com/hotels/45000000/44900000/44897200/44897182/820764cd_b.jpg",
+            "https://i.travelapi.com/hotels/45000000/44900000/44897200/44897182/820764cd_b.jpg",
+            "https://i.travelapi.com/hotels/45000000/44900000/44897200/44897182/820764cd_b.jpg"
+        ],
+        "score": {
+            "point": 0
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Çankaya",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 39.9303849,
+            "lon": 32.8448743,
+            "radius": 0
+        },
+        "id": "sxp75mhgm51r",
+        "name": "Hotel İçkale",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 6098.94,
+            "currency": "TRY",
+            "originalAmount": 338.58,
+            "originalCurrency": "EUR"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/p7vniqlwvkwqjwwm631r.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/p7vniqlwvkwqjwwm631r.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/p7vniqlwvkwqjwwm631r.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.1
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Çankaya",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 39.93340999999999,
+            "lon": 32.839879,
+            "radius": 0
+        },
+        "id": "sxp75m9kbxht",
+        "name": "Güvenay Business Hotel",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 6971.19,
+            "currency": "TRY",
+            "originalAmount": 387,
+            "originalCurrency": "EUR"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/mi2a07hqhdgximyxlicr.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/mi2a07hqhdgximyxlicr.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/mi2a07hqhdgximyxlicr.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.9
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Çankaya",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 39.9351,
+            "lon": 32.8386,
+            "radius": 0
+        },
+        "id": "sxp75mbqfdu5",
+        "name": "Altınel Ankara Hotel & Convention Center",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 6209.22,
+            "currency": "TRY",
+            "originalAmount": 344.7,
+            "originalCurrency": "EUR"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/9b0a60a71cf7693f3a5367fb9d7179b0.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/9b0a60a71cf7693f3a5367fb9d7179b0.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/9b0a60a71cf7693f3a5367fb9d7179b0.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.4
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Çankaya",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Oran"
+        },
+        "geoLocation": {
+            "lat": 39.8498,
+            "lon": 32.8264,
+            "radius": 0
+        },
+        "id": "sxp6dyrmx5zm",
+        "name": "Hotel Monec",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 6750,
+            "currency": "TRY",
+            "originalAmount": 6750,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/qht69lqjpw94he3zzgej.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/qht69lqjpw94he3zzgej.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/qht69lqjpw94he3zzgej.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.5
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Çankaya",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 39.8972661,
+            "lon": 32.8666686,
+            "radius": 0
+        },
+        "id": "sxp6gzhf2vkq",
+        "name": "Check Inn Ankara",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 5851.44,
+            "currency": "TRY",
+            "originalAmount": 5851.44,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/tdqv4ypmaunqrezirmrj.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/tdqv4ypmaunqrezirmrj.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/tdqv4ypmaunqrezirmrj.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.4
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Çankaya",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 39.915169,
+            "lon": 32.856364,
+            "radius": 0
+        },
+        "id": "sxp75dm68yb9",
+        "name": "Best Western Plus Center Hotel Ankara",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 7200,
+            "currency": "TRY",
+            "originalAmount": 7200,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ktq2js30luakspbwv3ts.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ktq2js30luakspbwv3ts.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ktq2js30luakspbwv3ts.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.8
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Çankaya",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Oran"
+        },
+        "geoLocation": {
+            "lat": 39.8634,
+            "lon": 32.8543,
+            "radius": 0
+        },
+        "id": "sxp6g95h8uft",
+        "name": "Park Inn by Radisson Ankara Çankaya",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 7200,
+            "currency": "TRY",
+            "originalAmount": 7200,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/cfziviqxnwhctyfpwywt.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/cfziviqxnwhctyfpwywt.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/cfziviqxnwhctyfpwywt.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.6
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Çankaya",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Kızılay"
+        },
+        "geoLocation": {
+            "lat": 39.92283,
+            "lon": 32.85372,
+            "radius": 0
+        },
+        "id": "sxp75eepn09g",
+        "name": "Etap Mola Ankara",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 3330,
+            "currency": "TRY",
+            "originalAmount": 3330,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/wndxpwenzypluxc51kqh.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/wndxpwenzypluxc51kqh.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/wndxpwenzypluxc51kqh.jpg"
+        ],
+        "score": {
+            "text": "GOOD",
+            "point": 7.2
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Çankaya",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 39.925583,
+            "lon": 32.827547,
+            "radius": 0
+        },
+        "id": "sxp75h0r3k15",
+        "name": "Inn 65 Budget",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 3571.92,
+            "currency": "TRY",
+            "originalAmount": 3571.92,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9NzAzMDI4ODY_20210605093223.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9NzAzMDI4ODY_20210605093223.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9NzAzMDI4ODY_20210605093223.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.1
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Haymana",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 39.43428711926237,
+            "lon": 32.50842691534422,
+            "radius": 0
+        },
+        "id": "sxp07dzcm7bj",
+        "name": "Armada Grannos Thermal Hotel & Convention Center",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 19600,
+            "currency": "TRY",
+            "originalAmount": 19600,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/q10jkp0rzpzuejgdd1om.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/q10jkp0rzpzuejgdd1om.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/q10jkp0rzpzuejgdd1om.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 7.6
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Çankaya",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 39.8830669,
+            "lon": 32.8900999,
+            "radius": 0
+        },
+        "id": "sxp6ukt8rc0x",
+        "name": "Inn House Loft",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 4500,
+            "currency": "TRY",
+            "originalAmount": 4500,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/04ed925ac4b48a1adad352e5d7060dac.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/04ed925ac4b48a1adad352e5d7060dac.jpg",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/04ed925ac4b48a1adad352e5d7060dac.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.5
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Ankara",
+            "country": "Türkiye",
+            "state": "Yenimahalle",
+            "distance": 0,
+            "region": "İç Anadolu Bölgesi",
+            "customRegion": "",
+            "cyprus": false
+        },
+        "geoLocation": {
+            "lat": 39.912,
+            "lon": 32.8083,
+            "radius": 0
+        },
+        "id": "sxp749f22b19",
+        "name": "Mövenpick Hotel Ankara",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 17217.21,
+            "currency": "TRY",
+            "originalAmount": 955.8,
+            "originalCurrency": "EUR"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9TW92ZW5waWNrLUFua2FyYQ_20210421120549.JPG",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9TW92ZW5waWNrLUFua2FyYQ_20210421120549.JPG",
+            "https://images.odamax.com/img/400x400/odamax/image/upload/ZmlsZU5hbWU9TW92ZW5waWNrLUFua2FyYQ_20210421120549.JPG"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.4
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Kemer",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Göynük"
+        },
+        "geoLocation": {
+            "lat": 36.6613901,
+            "lon": 30.5572074,
+            "radius": 0
+        },
+        "id": "swt8x618qq19",
+        "name": "Sherwood Greenwood Resort",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 19860,
+            "currency": "TRY",
+            "originalAmount": 19860,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/209266/m/Sherwood-Greenwood-Resort-Genel-308705.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/209266/m/Sherwood-Greenwood-Resort-Genel-308705.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/209266/m/Sherwood-Greenwood-Resort-Genel-308705.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.6
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Side",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "cyprus": false,
+            "nextState": "Titreyengöl"
+        },
+        "geoLocation": {
+            "lat": 36.7545749,
+            "lon": 31.4467705,
+            "radius": 0
+        },
+        "id": "sww35dfyfv7e",
+        "name": "Amara Family Resort",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 23108.4,
+            "currency": "TRY",
+            "originalAmount": 23108.4,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/215268/m/Amara-Family-Resort-Genel-333280.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/215268/m/Amara-Family-Resort-Genel-333280.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/215268/m/Amara-Family-Resort-Genel-333280.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.9
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Side",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "cyprus": false,
+            "nextState": "Sorgun"
+        },
+        "geoLocation": {
+            "lat": 36.756839,
+            "lon": 31.417122,
+            "radius": 0
+        },
+        "id": "swr117krtpxn",
+        "name": "Voyage Sorgun",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 68400,
+            "currency": "TRY",
+            "originalAmount": 68400,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/test/TR/51493/m/GEN--5-.jpg",
+            "https://images.etstur.com/files/images/hotelImages/test/TR/51493/m/GEN--5-.jpg",
+            "https://images.etstur.com/files/images/hotelImages/test/TR/51493/m/GEN--5-.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.5
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Manavgat",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Kızılot"
+        },
+        "geoLocation": {
+            "lat": 36.66994,
+            "lon": 31.64162,
+            "radius": 0
+        },
+        "id": "sww88589zhmb",
+        "name": "Fun&Sun Family Life Side",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 20746.92,
+            "currency": "TRY",
+            "originalAmount": 20746.92,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/216169/m/Fun-Sun-Family-Life-Side-Genel-341270.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/216169/m/Fun-Sun-Family-Life-Side-Genel-341270.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/216169/m/Fun-Sun-Family-Life-Side-Genel-341270.jpg"
+        ],
+        "score": {
+            "point": 0
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Belek",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Belek Boğazkent"
+        },
+        "geoLocation": {
+            "lat": 36.8347182,
+            "lon": 31.1628594,
+            "radius": 0
+        },
+        "id": "swr021gkhpxn",
+        "name": "Crystal Paraiso Verde Resort",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 22322.7,
+            "currency": "TRY",
+            "originalAmount": 22322.7,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/51613/m/Crystal-Paraiso-Verde-Resort-Genel-343416.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/51613/m/Crystal-Paraiso-Verde-Resort-Genel-343416.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/51613/m/Crystal-Paraiso-Verde-Resort-Genel-343416.jpg"
+        ],
+        "score": {
+            "point": 0
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Side",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "cyprus": false,
+            "nextState": "Titreyengöl"
+        },
+        "geoLocation": {
+            "lat": 36.751342,
+            "lon": 31.453215,
+            "radius": 0
+        },
+        "id": "swr046gkhpxn",
+        "name": "Kaya Side",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 43092,
+            "currency": "TRY",
+            "originalAmount": 43092,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/51855/m/Kaya-Side-Genel-317534.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/51855/m/Kaya-Side-Genel-317534.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/51855/m/Kaya-Side-Genel-317534.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.1
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Side",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "cyprus": false,
+            "nextState": "Sorgun"
+        },
+        "geoLocation": {
+            "lat": 36.762717,
+            "lon": 31.412031,
+            "radius": 0
+        },
+        "id": "swr074krtpxn",
+        "name": "Ali Bey Resort",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 61155,
+            "currency": "TRY",
+            "originalAmount": 61155,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/51886/m/Ali-Bey-Resort-Genel-342720.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/51886/m/Ali-Bey-Resort-Genel-342720.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/51886/m/Ali-Bey-Resort-Genel-342720.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.2
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Manavgat",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Side"
+        },
+        "geoLocation": {
+            "lat": 36.8247526,
+            "lon": 31.2780526,
+            "radius": 0
+        },
+        "id": "swr105tkhpxn",
+        "name": "Ramada Resort By Wyndham Side",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 16938,
+            "currency": "TRY",
+            "originalAmount": 16938,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/51156/m/Ramada-Resort-Side-Genel-138144.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/51156/m/Ramada-Resort-Side-Genel-138144.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/51156/m/Ramada-Resort-Side-Genel-138144.jpg"
+        ],
+        "score": {
+            "text": "GOOD",
+            "point": 7.4
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Side",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "cyprus": false,
+            "nextState": "Titreyengöl"
+        },
+        "geoLocation": {
+            "lat": 36.7507,
+            "lon": 31.4558,
+            "radius": 0
+        },
+        "id": "sww35f32hjrt",
+        "name": "Azura Deluxe Resort & Aqua Sorgun",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 38971.8,
+            "currency": "TRY",
+            "originalAmount": 38971.8,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/55328/m/Nashira-Resort-Hotel---Spa-Genel-269182.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/55328/m/Nashira-Resort-Hotel---Spa-Genel-269182.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/55328/m/Nashira-Resort-Hotel---Spa-Genel-269182.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.9
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Side",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "cyprus": false,
+            "nextState": "Sorgun"
+        },
+        "geoLocation": {
+            "lat": 36.757886,
+            "lon": 31.418928,
+            "radius": 0
+        },
+        "id": "swr075krtpxn",
+        "name": "Arcanus Side Resort",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 30594.9,
+            "currency": "TRY",
+            "originalAmount": 30594.9,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/92797/m/Arcanus-Side-Resort-Genel-302114.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/92797/m/Arcanus-Side-Resort-Genel-302114.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/92797/m/Arcanus-Side-Resort-Genel-302114.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.1
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Manavgat",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Side"
+        },
+        "geoLocation": {
+            "lat": 36.724579,
+            "lon": 31.535736,
+            "radius": 0
+        },
+        "id": "sww2vte85v19",
+        "name": "Club Nena",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 21780,
+            "currency": "TRY",
+            "originalAmount": 21780,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/50579/m/Club-Nena-Genel-289950.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/50579/m/Club-Nena-Genel-289950.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/50579/m/Club-Nena-Genel-289950.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Alanya",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Okurcalar"
+        },
+        "geoLocation": {
+            "lat": 36.650665,
+            "lon": 31.683894,
+            "radius": 0
+        },
+        "id": "swr176bkhpxn",
+        "name": "Q Aventura Park",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 14827.5,
+            "currency": "TRY",
+            "originalAmount": 14827.5,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/51888/m/Aventura-Park-Genel-5601.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/51888/m/Aventura-Park-Genel-5601.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/51888/m/Aventura-Park-Genel-5601.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.7
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Antalya Merkez",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Lara-Kundu"
+        },
+        "geoLocation": {
+            "lat": 36.860608,
+            "lon": 30.887404,
+            "radius": 0
+        },
+        "id": "swtcwy788e19",
+        "name": "Sherwood Suites Resort",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 25920,
+            "currency": "TRY",
+            "originalAmount": 25920,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/209270/m/Sherwood-Suites-Resort-Genel-308612.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/209270/m/Sherwood-Suites-Resort-Genel-308612.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/209270/m/Sherwood-Suites-Resort-Genel-308612.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.5
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Manavgat",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Side"
+        },
+        "geoLocation": {
+            "lat": 36.72982,
+            "lon": 31.52726,
+            "radius": 0
+        },
+        "id": "sww2vqmqwqsy",
+        "name": "Selectum Family Side",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 30600,
+            "currency": "TRY",
+            "originalAmount": 30600,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/51840/m/gen--4-.JPG",
+            "https://images.etstur.com/files/images/hotelImages/TR/51840/m/gen--4-.JPG",
+            "https://images.etstur.com/files/images/hotelImages/TR/51840/m/gen--4-.JPG"
+        ],
+        "score": {
+            "point": 0
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Belek",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Belek Boğazkent"
+        },
+        "geoLocation": {
+            "lat": 36.83428,
+            "lon": 31.14982,
+            "radius": 0
+        },
+        "id": "sww1sc6x5rmq",
+        "name": "Fun&Sun Family Life Belek",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 22309.04,
+            "currency": "TRY",
+            "originalAmount": 22309.04,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/216166/m/Fun-Sun-Family-Life-Belek-Genel-336168.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/216166/m/Fun-Sun-Family-Life-Belek-Genel-336168.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/216166/m/Fun-Sun-Family-Life-Belek-Genel-336168.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.7
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Kemer",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Tekirova"
+        },
+        "geoLocation": {
+            "lat": 36.509329,
+            "lon": 30.535103,
+            "radius": 0
+        },
+        "id": "swr041bytpxn",
+        "name": "Rixos Premium Tekirova",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 81648,
+            "currency": "TRY",
+            "originalAmount": 81648,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/50787/m/Rixos-Premium-Tekirova-Genel-340743.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/50787/m/Rixos-Premium-Tekirova-Genel-340743.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/50787/m/Rixos-Premium-Tekirova-Genel-340743.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.2
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Antalya Merkez",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Lara-Kundu"
+        },
+        "geoLocation": {
+            "lat": 36.8561,
+            "lon": 30.8862,
+            "radius": 0
+        },
+        "id": "swr142akhpxn",
+        "name": "Baia Lara",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 40014,
+            "currency": "TRY",
+            "originalAmount": 40014,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/52300/m/Hotel-Baia-Lara-Oda-300766.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/52300/m/Hotel-Baia-Lara-Oda-300766.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/52300/m/Hotel-Baia-Lara-Oda-300766.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.2
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Kemer",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Beldibi"
+        },
+        "geoLocation": {
+            "lat": 36.706813,
+            "lon": 30.567431,
+            "radius": 0
+        },
+        "id": "swr178bkhpxn",
+        "name": "Baia Salima Kemer",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 26788.32,
+            "currency": "TRY",
+            "originalAmount": 26788.32,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/212475/m/Baia-Kemer-Club-Genel-298028.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/212475/m/Baia-Kemer-Club-Genel-298028.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/212475/m/Baia-Kemer-Club-Genel-298028.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 7.9
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Belek",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Kadriye"
+        },
+        "geoLocation": {
+            "lat": 36.838231,
+            "lon": 31.140445,
+            "radius": 0
+        },
+        "id": "swr012ayht19",
+        "name": "Granada Luxury Belek",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 40147,
+            "currency": "TRY",
+            "originalAmount": 40147,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/95763/m/Granada-Luxury-Belek-Genel-257544.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/95763/m/Granada-Luxury-Belek-Genel-257544.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/95763/m/Granada-Luxury-Belek-Genel-257544.jpg"
+        ],
+        "score": {
+            "text": "PERFECT",
+            "point": 9.4
+        },
+        "favorite": false
+    },
+    {
+        "location": {
+            "id": 0,
+            "city": "Antalya",
+            "country": "Türkiye",
+            "state": "Antalya Merkez",
+            "distance": 0,
+            "region": "Akdeniz Bölgesi",
+            "customRegion": "",
+            "cyprus": false,
+            "nextState": "Lara-Kundu"
+        },
+        "geoLocation": {
+            "lat": 36.8570703,
+            "lon": 30.9131269,
+            "radius": 0
+        },
+        "id": "swr060bytpxn",
+        "name": "Asteria Kremlin Palace",
+        "description": "Etkinlik açıklaması, izleyicilere etkinliğiniz hakkında tüm önemli ayrıntıları anlatan bir metin veya kopyadır. Bu ayrıntılar, potansiyel katılımcıları kayıt olmaya zorlayacak şekilde bir araya gelmelidir. Ancak, iyi bir etkinlik açıklaması, katılımı artırmanın ötesinde, üye olmayanların ve hatta basının ilgisini çekebilir.",
+        "price": {
+            "amount": 45000,
+            "currency": "TRY",
+            "originalAmount": 45000,
+            "originalCurrency": "TRY"
+        },
+        "totalNightCount": 9,
+        "peopleCount": {
+            "female": 25,
+            "male": 10
+        },
+        "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
+        "imageUrl": [
+            "https://images.etstur.com/files/images/hotelImages/TR/209282/m/Asteria-Kremlin-Palace-Genel-324904.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/209282/m/Asteria-Kremlin-Palace-Genel-324904.jpg",
+            "https://images.etstur.com/files/images/hotelImages/TR/209282/m/Asteria-Kremlin-Palace-Genel-324904.jpg"
+        ],
+        "score": {
+            "text": "VERY GOOD",
+            "point": 8.6
+        },
+        "favorite": false
+    }
+]
