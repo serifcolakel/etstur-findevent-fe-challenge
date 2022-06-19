@@ -24,7 +24,7 @@ export default function Home({ data }) {
 }
 export async function getStaticProps() {
   let data = await fetch(
-    `${process.env.NEXT_PUBLIC_BASE_URL}/api/location`
+    `${process.env.NEXT_PUBLIC_BASE_URL_LOCAL}/api/location`
   ).then((res) => res.json());
   return {
     props: {

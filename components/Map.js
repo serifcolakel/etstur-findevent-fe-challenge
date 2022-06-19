@@ -16,10 +16,6 @@ const defaultProps = {
 };
 
 export default function Map({ data }) {
-  if (!data) return null;
-  useEffect(() => {
-    setMapWindow();
-  }, []);
   const [showEventCard, setShowEventCard] = React.useState(null);
   const [mapProps, setMapProps] = React.useState(defaultProps);
   const [mapWindow, setWindow] = React.useState({
@@ -44,6 +40,10 @@ export default function Map({ data }) {
       height: window.innerHeight / 0.8,
     });
   }
+  useEffect(() => {
+    setMapWindow();
+  }, []);
+  if (!data) return null;
   return (
     <div
       className="relative"
