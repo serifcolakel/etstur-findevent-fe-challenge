@@ -22,7 +22,7 @@ export default function Home({ data }) {
     </div>
   );
 }
-export async function getStaticProps() {
+export async function getServerSideProps() {
   let data = await fetch(
     `${process.env.NEXT_PUBLIC_BASE_URL_LOCAL}/api/location`
   ).then((res) => res.json());
@@ -30,5 +30,6 @@ export async function getStaticProps() {
     props: {
       data,
     },
+    fallback: false,
   };
 }
