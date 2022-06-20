@@ -7,11 +7,11 @@ export default function Footer() {
     <footer className="flex flex-col gap-y-4 border-t py-4 border-gray w-full md:px-40 px-4 bg-[#F6F9FD] text-black">
       <div className="flex flex-col md:flex-row items-center justify-between w-full gap-y-8 text-center md:pl-10 py-4">
         <img
-          src="https://i.hizliresim.com/h0i09k2.png"
+          src="https://i.hizliresim.com/23w0u9s.png"
           alt="Find Event"
-          className="h-40 w-40"
+          className="h-32 w-40 object-contain"
         />
-        <div className="flex flex-row  gap-x-8 text-2xl">
+        <div className="flex flex-row  gap-x-8 text-xl">
           {["Home", "About", "Contact"].map((text, idx) => (
             <Link key={idx} href="/">
               <a className=" hover:text-violet-600">{text}</a>
