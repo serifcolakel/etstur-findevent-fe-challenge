@@ -1,5 +1,6 @@
 [
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -43,6 +44,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -86,6 +88,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -130,6 +133,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -173,6 +177,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -216,6 +221,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -259,6 +265,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -302,6 +309,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -345,6 +353,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -388,6 +397,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -431,6 +441,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -468,6 +479,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -511,6 +523,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -554,6 +567,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -598,6 +612,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -641,6 +656,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -678,6 +694,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -721,6 +738,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -764,6 +782,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -807,6 +826,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -849,6 +869,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -893,6 +914,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -937,6 +959,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -980,6 +1003,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1024,6 +1048,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1067,6 +1092,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1111,6 +1137,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1155,6 +1182,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1199,6 +1227,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1242,6 +1271,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1286,6 +1316,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1330,6 +1361,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1374,6 +1406,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1418,6 +1451,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1461,6 +1495,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1505,6 +1540,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1549,6 +1585,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1593,6 +1630,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1637,6 +1675,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1681,6 +1720,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1717,6 +1757,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -1754,6 +1795,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -1796,6 +1838,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -1838,6 +1881,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -1880,6 +1924,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -1916,6 +1961,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -1958,6 +2004,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -1999,6 +2046,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2041,6 +2089,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2083,6 +2132,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2125,6 +2175,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2168,6 +2219,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2210,6 +2262,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2252,6 +2305,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2295,6 +2349,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2338,6 +2393,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2380,6 +2436,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2422,6 +2479,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2464,6 +2522,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2506,6 +2565,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2549,6 +2609,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2591,6 +2652,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2633,6 +2695,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2675,6 +2738,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2717,6 +2781,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2759,6 +2824,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2801,6 +2867,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2844,6 +2911,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2886,6 +2954,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2928,6 +2997,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2971,6 +3041,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3014,6 +3085,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3057,6 +3129,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3099,6 +3172,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3142,6 +3216,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3185,6 +3260,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3228,6 +3304,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3271,6 +3348,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3314,6 +3392,7 @@
         "favorite": false
     },
     {
+        "eventType": "Tiyatro",
         "location": {
             "id": 0,
             "city": "Antalya",

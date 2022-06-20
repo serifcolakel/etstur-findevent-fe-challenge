@@ -5,32 +5,41 @@ import { BiCurrentLocation } from "react-icons/bi";
 import { GrFormClose } from "react-icons/gr";
 import { GiTimeBomb, GiPriceTag, GiCursedStar } from "react-icons/gi";
 import { FaFemale, FaMale } from "react-icons/fa";
-import { AiTwotoneStar } from "react-icons/ai";
 import CustomCarousel from "./CustomCarousel";
 const defaultProps = {
   center: {
     lat: 39.8996161,
     lng: 32.8131191,
   },
-  zoom: 11,
+  zoom: 8,
 };
 
 export default function Map({ data }) {
   const [showEventCard, setShowEventCard] = React.useState(null);
   const [mapProps, setMapProps] = React.useState(defaultProps);
+  const [userLocation, setUserLocation] = React.useState({
+    lat: null,
+    lng: null,
+  });
+  const [zoom, setZoom] = React.useState(1.441);
   const [mapWindow, setWindow] = React.useState({
     width: null,
     height: "",
   });
+  console.log(mapProps);
+
   async function getLocation() {
     await window.navigator.geolocation.getCurrentPosition((position) => {
-      console.log(position);
+      setUserLocation({
+        lat: position.coords.latitude,
+        lng: position.coords.longitude,
+      });
       setMapProps({
         center: {
           lat: position.coords.latitude,
           lng: position.coords.longitude,
         },
-        zoom: 13,
+        zoom: 8,
       });
     });
   }
@@ -43,6 +52,17 @@ export default function Map({ data }) {
   useEffect(() => {
     setMapWindow();
   }, []);
+  let zoomDetails = [
+    { lan: 1.441, zo: 8 },
+    { lan: 0.851, zo: 9 },
+    { lan: 0.381, zo: 10 },
+    { lan: 0.181, zo: 11 },
+    { lan: 0.081, zo: 12 },
+  ];
+  function setZoomToLantitude(zoom) {
+    let res = zoomDetails.find((z) => z.zo === zoom).lan;
+    setZoom(res);
+  }
   if (!data) return null;
   return (
     <div
@@ -62,12 +82,16 @@ export default function Map({ data }) {
         bootstrapURLKeys={{
           key: `${process.env.NEXT_PUBLIC_GOOGLE_MAP_API}`,
         }}
+        options={{
+          minZoom: 8,
+          maxZoom: 12,
+        }}
         onGoogleApiLoaded={({ map, maps }) => {
           console.log(map);
           getLocation();
+          setMapWindow();
         }}
-        draggable={true}
-        shouldUnregisterMapOnUnmount={true}
+        onChange={(mapProps) => setZoomToLantitude(mapProps.zoom)}
         center={mapProps.center}
         zoom={mapProps.zoom}
         defaultCenter={defaultProps.center}
@@ -75,9 +99,9 @@ export default function Map({ data }) {
       >
         {mapProps.center && (
           <UserMarker
-            lat={mapProps.center.lat}
-            lng={mapProps.center.lng}
-            key={mapProps.center.lon}
+            lat={userLocation.lat}
+            lng={userLocation.lng}
+            key={userLocation.lon}
           />
         )}
         {data.map((mark) => (
@@ -86,6 +110,8 @@ export default function Map({ data }) {
             lng={mark.geoLocation.lon}
             key={mark.id}
             mark={mark}
+            zoom={zoom}
+            setMapProps={setMapProps}
             showEventCard={showEventCard}
             setShowEventCard={setShowEventCard}
           />
@@ -104,7 +130,7 @@ function UserMarker() {
     </div>
   );
 }
-function Marker({ mark, showEventCard, setShowEventCard }) {
+function Marker({ mark, showEventCard, setShowEventCard, setMapProps, zoom }) {
   return (
     <div
       className={
@@ -119,9 +145,16 @@ function Marker({ mark, showEventCard, setShowEventCard }) {
 
       <MdLocationPin
         className="h-12 w-12"
-        onClick={() =>
-          setShowEventCard((prev) => (mark.id === prev ? null : mark.id))
-        }
+        onClick={() => {
+          setMapProps({
+            center: {
+              lat: mark.geoLocation.lat + zoom,
+              lng: mark.geoLocation.lon,
+            },
+            zoom: 8,
+          });
+          setShowEventCard((prev) => (mark.id === prev ? null : mark.id));
+        }}
       />
     </div>
   );
@@ -193,9 +226,9 @@ function EventCard({ mark, setShowEventCard }) {
             </p>
           </div>
         </div>
-        <div className="w-full flex flex-row items-center justify-between px-4 py-4">
+        <div className="w-full flex flex-row items-center justify-between pl-4 pr-2 py-4">
           <p className="text-lg w-full pl-3">Rating</p>
-          <div className="grid grid-cols-4 gap-x-4 text-yellow-400">
+          <div className="flex flex-row gap-x-1 text-yellow-400">
             {mark.score.point > 0 &&
               Array.from({ length: Math.ceil(mark.score.point) / 2 }).map(
                 (_, i) => <GiCursedStar key={i} size={20} />
