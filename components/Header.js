@@ -1,11 +1,26 @@
-import React from "react";
+import React, { useRef } from "react";
 import Link from "next/link";
 import { FiMenu } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
+import { Toast } from "primereact/toast";
+
 export default function Header() {
   const [show, setShow] = React.useState(false);
+  const toast = useRef(null);
+  const showInfo = () => {
+    toast.current.show({
+      severity: "info",
+      summary: "Bilgilendirme",
+      detail: "Diğer sayfalara şuan erişemiyoruz.",
+      life: 2000,
+    });
+  };
   return (
     <>
+      <Toast
+        ref={toast}
+        className="!absolute !top-0 md:!top-8 md:!right-8 !right-0 md:!w-auto !w-[90%]"
+      />
       <header className="flex flex-row items-center justify-between w-full bg-[#F6F9FD] text-black xl:px-40 px-4 relative">
         <Link href="/">
           <a className="hover:text-violet-600">
@@ -34,7 +49,7 @@ export default function Header() {
           </nav>
         )}
         <nav className="hidden xl:flex flex-row justify-end xl:justify-center gap-x-8">
-          <MenuItems />
+          <MenuItems setShow={showInfo} />
         </nav>
       </header>
       <h1 className="hidden xl:block text-2xl font-bold text-center bg-[#F6F9FD] text-black pb-4 w-full">
@@ -44,11 +59,7 @@ export default function Header() {
     </>
   );
 }
-function MenuItems({
-  setShow = () => {
-    console.log("Link clicked");
-  },
-}) {
+function MenuItems({ setShow }) {
   const items = [
     "Home",
     "About",

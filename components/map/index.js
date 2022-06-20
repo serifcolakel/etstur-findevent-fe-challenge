@@ -83,7 +83,6 @@ export default function Map({ data }) {
           maxZoom: 12,
         }}
         onGoogleApiLoaded={({ map, maps }) => {
-          console.log(map);
           getLocation();
           setMapWindow();
         }}

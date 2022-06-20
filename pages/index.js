@@ -1,5 +1,5 @@
 import Head from "next/head";
-import React, { memo, useCallback, useEffect } from "react";
+import React from "react";
 import Map from "../components/map/index";
 import styles from "../styles/Home.module.css";
 import "slick-carousel/slick/slick.css";

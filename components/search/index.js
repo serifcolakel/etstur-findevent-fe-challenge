@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useRef, useState } from "react";
 import { InputText } from "primereact/inputtext";
 import { Button } from "primereact/button";
 import { Calendar } from "primereact/calendar";
@@ -20,7 +20,6 @@ export default function Search() {
     let data = await fetch(
       `${process.env.NEXT_PUBLIC_BASE_URL_LOCAL}/api/search?name=${searchByName}&category=${searchByCategory}&location=${searchByLocation}&date=${searchByDate}&price=${searchByPrice}`
     ).then((res) => res.json());
-    console.log(data);
     showInfo();
     // setFilteredEvents(data);
   }
@@ -140,7 +139,7 @@ export default function Search() {
         className="!bg-violet-600 !px-12 !py-4"
       />
       {filteredEvents.map((event) => (
-        <div>
+        <div key={event.id}>
           {event.name}:{event.location.city}:{event.eventType}
         </div>
       ))}
