@@ -1,6 +1,6 @@
 [
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konser",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -44,7 +44,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Dans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -88,7 +88,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Dans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -133,7 +133,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Dans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -177,7 +177,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Dans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -221,7 +221,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Dans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -265,7 +265,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Dans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -309,7 +309,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konferans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -353,7 +353,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konferans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -397,7 +397,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konferans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -441,7 +441,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konferans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -479,7 +479,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konferans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -523,7 +523,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konferans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -567,7 +567,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konferans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -612,7 +612,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konferans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -656,7 +656,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konferans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -694,7 +694,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konferans",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -738,7 +738,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Seminer",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -782,7 +782,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Seminer",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -826,7 +826,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Seminer",
         "location": {
             "id": 0,
             "city": "İstanbul",
@@ -869,7 +869,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Seminer",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -914,7 +914,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Seminer",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -959,7 +959,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Seminer",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1003,7 +1003,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Seminer",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1271,7 +1271,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Muzikal",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1316,7 +1316,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Muzikal",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1361,7 +1361,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Muzikal",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1406,7 +1406,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Sinema",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1451,7 +1451,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Sinema",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1495,7 +1495,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Sinema",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1540,7 +1540,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Sinema",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1585,7 +1585,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Sinema",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1630,7 +1630,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Sinema",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1675,7 +1675,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Spor",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1720,7 +1720,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Spor",
         "location": {
             "id": 0,
             "city": "Hatay",
@@ -1757,7 +1757,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Spor",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -1795,7 +1795,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Spor",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -1838,7 +1838,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Spor",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -1881,7 +1881,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Spor",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -1924,7 +1924,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Spor",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -1961,7 +1961,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Spor",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2004,7 +2004,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Spor",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2046,7 +2046,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Eğitim",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2089,7 +2089,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Eğitim",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2132,7 +2132,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Eğitim",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2175,7 +2175,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Eğitim",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2219,7 +2219,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Eğitim",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2262,7 +2262,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Resim",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2305,7 +2305,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Resim",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2349,7 +2349,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Resim",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2393,7 +2393,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Resim",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2436,7 +2436,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Resim",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2479,7 +2479,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Resim",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2522,7 +2522,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Muzikal",
         "location": {
             "id": 0,
             "city": "Ankara",
@@ -2565,7 +2565,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Muzikal",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2609,7 +2609,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Muzikal",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2652,7 +2652,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Muzikal",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2695,7 +2695,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Muzikal",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2738,7 +2738,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Muzikal",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2781,7 +2781,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Muzikal",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2824,7 +2824,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Sinema",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2867,7 +2867,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Sinema",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2911,7 +2911,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Sinema",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2954,7 +2954,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Sinema",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -2997,7 +2997,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Sinema",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3041,7 +3041,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Sinema",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3073,11 +3073,7 @@
             "male": 10
         },
         "date": "Sun Jun 19 2022 22:42:23 GMT+0300 (GMT+03:00)",
-        "imageUrl": [
-            "https://images.etstur.com/files/images/hotelImages/TR/51888/m/Aventura-Park-Genel-5601.jpg",
-            "https://images.etstur.com/files/images/hotelImages/TR/51888/m/Aventura-Park-Genel-5601.jpg",
-            "https://images.etstur.com/files/images/hotelImages/TR/51888/m/Aventura-Park-Genel-5601.jpg"
-        ],
+        "imageUrl": [],
         "score": {
             "text": "VERY GOOD",
             "point": 8.7
@@ -3085,7 +3081,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Muzikal",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3129,7 +3125,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konser",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3172,7 +3168,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konser",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3216,7 +3212,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konser",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3260,7 +3256,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konser",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3304,7 +3300,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konser",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3348,7 +3344,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konser",
         "location": {
             "id": 0,
             "city": "Antalya",
@@ -3392,7 +3388,7 @@
         "favorite": false
     },
     {
-        "eventType": "Tiyatro",
+        "eventType": "Konser",
         "location": {
             "id": 0,
             "city": "Antalya",

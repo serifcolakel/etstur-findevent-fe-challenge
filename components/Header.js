@@ -6,36 +6,40 @@ export default function Header() {
   const [show, setShow] = React.useState(false);
   return (
     <>
-      <header className="flex flex-row items-center justify-between  py-4 w-full bg-[#323232] text-white md:px-40 px-4 relative">
+      <header className="flex flex-row items-center justify-between w-full bg-[#F6F9FD] text-black xl:px-40 px-4 relative">
         <Link href="/">
-          <a className="hover:text-red-600">
-            <img src="/favicon.ico" alt="Find Event" className="h-16 w-16" />
+          <a className="hover:text-violet-600">
+            <img
+              src="https://i.hizliresim.com/h0i09k2.png"
+              alt="Find Event"
+              className="md:h-48 h-20 w-40 object-contain"
+            />
           </a>
         </Link>
 
         {show ? (
           <MdClose
-            className="md:hidden block text-4xl"
+            className="xl:hidden block text-4xl"
             onClick={() => setShow(!show)}
           />
         ) : (
           <FiMenu
-            className="md:hidden block text-4xl"
+            className="xl:hidden block text-4xl"
             onClick={() => setShow(!show)}
           />
         )}
         {show && window.innerWidth < 768 && (
-          <nav className="md:hidden flex flex-col absolute top-20 right-8 bg-[#323232] w-[80%] rounded-lg p-4 border border-white shadow-xl">
+          <nav className="xl:hidden flex flex-col absolute top-20 right-8 bg-[#F6F9FD] w-[80%] rounded-lg p-4 border border-violet-600 shadow-xl z-50">
             <MenuItems setShow={setShow} />
           </nav>
         )}
-        <nav className="hidden md:flex flex-row justify-end md:justify-center gap-x-8">
+        <nav className="hidden xl:flex flex-row justify-end xl:justify-center gap-x-8">
           <MenuItems />
         </nav>
       </header>
-      <h1 className="hidden md:block text-2xl font-bold text-center bg-[#323232] text-white py-4 w-full">
-        Find The <span className="text-red-600">Next Event</span> you will want
-        to attend.
+      <h1 className="hidden xl:block text-2xl font-bold text-center bg-[#F6F9FD] text-black pb-4 w-full">
+        Find The <span className="text-violet-600">Next Event</span> you will
+        want to attend.
       </h1>
     </>
   );
@@ -59,7 +63,7 @@ function MenuItems({
       {items.map((text, idx) => (
         <span className="flex items-center" key={`${text}-${idx}`}>
           {text === "Login" || text === "Get Listed Today" ? (
-            <button className="border rounded-lg my-2 py-2 px-4 border-red-600 bg-red-600 hover:bg-white hover:text-red-600 hover:border-white font-bold">
+            <button className="border text-white rounded-lg my-2 py-2 px-4 border-violet-600 bg-violet-600 hover:bg-white hover:text-violet-600 hover:border-violet-600 font-bold">
               {text}
             </button>
           ) : (
@@ -68,7 +72,7 @@ function MenuItems({
                 onClick={() => {
                   setShow((prev) => !prev);
                 }}
-                className="hover:text-red-600 my-2 font-semibold"
+                className="hover:text-violet-600 my-2 font-semibold"
               >
                 {text}
               </a>

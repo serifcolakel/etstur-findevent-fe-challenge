@@ -6,7 +6,7 @@ export default function CustomCarousel({ data }) {
     const { onClick } = props;
     return (
       <MdOutlineNavigateNext
-        className="w-8 h-8 text-blue-600 bg-white rounded-lg absolute top-[35%] -right-2 cursor-pointer"
+        className="w-8 h-8 text-violet-600 border border-violet-600 bg-white rounded-lg absolute top-[35%] -right-2 cursor-pointer"
         onClick={onClick}
       />
     );
@@ -16,7 +16,7 @@ export default function CustomCarousel({ data }) {
     const { onClick } = props;
     return (
       <MdOutlineNavigateBefore
-        className="w-8 h-8 text-blue-600 bg-white rounded-lg absolute top-[35%] -left-2 z-50  cursor-pointer"
+        className="w-8 h-8 text-violet-600 border border-violet-600 bg-white rounded-lg absolute top-[35%] -left-2 z-50  cursor-pointer"
         onClick={onClick}
       />
     );
@@ -34,14 +34,23 @@ export default function CustomCarousel({ data }) {
   return (
     <div>
       <Slider {...settings}>
-        {data.map((url, idx) => (
+        {data.length > 0 ? (
+          data.map((url, idx) => (
+            <img
+              key={idx}
+              src={url}
+              alt="Find Event"
+              className="w-full h-32 object-cover px-2"
+            />
+          ))
+        ) : (
           <img
-            key={idx}
-            src={url || "https://via.placeholder.com/300x200"}
+            key={"default-placeholder"}
+            src={"https://i.hizliresim.com/jozty1g.png"}
             alt="Find Event"
             className="w-full h-32 object-cover px-2"
           />
-        ))}
+        )}
       </Slider>
     </div>
   );
