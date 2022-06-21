@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { BiCurrentLocation } from "react-icons/bi";
 import { FaFemale, FaMale } from "react-icons/fa";
 import { GiCursedStar, GiPriceTag, GiTimeBomb } from "react-icons/gi";
@@ -14,7 +15,7 @@ export default function EventCard({
     .split(" ")
     .map((x, i) => i < 4 && x)
     .filter((y) => y !== false);
-
+  console.log(mark);
   return (
     <>
       <div className="md:w-[350px] w-[300px] border border-violet-600 absolute bottom-16 bg-[#F6F9FD] text-black rounded-lg py-2 px-4 z-20 cursor-default">
@@ -88,7 +89,7 @@ export default function EventCard({
             </p>
           </div>
         </div>
-        <div className="w-full flex flex-row items-center justify-between pl-4 pr-2 md:py-4">
+        <div className="w-full flex flex-row items-center justify-between pl-4 pr-2 md:py-5">
           <p className="text-lg w-full pl-3">Rating</p>
           <div className="flex flex-row gap-x-1 text-yellow-400">
             {mark.score.point > 0 &&
@@ -98,7 +99,16 @@ export default function EventCard({
           </div>
         </div>
       </div>
-      <div className=" h-14 w-14 bg-[#F6F9FD] border-l-4 border-b-4 border-violet-600 z-30 -rotate-45 transform  bottom-14 absolute"></div>
+      <Link href={mark.id}>
+        <a
+          style={{ zIndex: "10000 !important" }}
+          className="w-[160px] border border-violet-600 bg-violet-600 hover:text-violet-600 hover:bg-white hover:border-violet-600 flex text-base items-center justify-center mx-auto absolute bottom-[100px] z-50 mb-6 px-2 py-1 rounded-lg text-white"
+        >
+          Detayları incele
+        </a>
+      </Link>
+
+      <div className=" h-14 w-14 bg-[#F6F9FD] border-l-4 border-b-4 border-violet-600 z-20 -rotate-45 transform  bottom-14 absolute"></div>
     </>
   );
 }

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 import { BiCurrentLocation } from "react-icons/bi";
 import { FaFemale, FaMale } from "react-icons/fa";
@@ -5,12 +6,19 @@ import { GiCursedStar, GiPriceTag, GiTimeBomb } from "react-icons/gi";
 import CustomCarousel from "./CustomCarousel";
 
 export default function Card({ data }) {
+  let cols =
+    data.length > 10 ? ` md:grid-cols-3` : ` md:grid-cols-${data.length}`;
   return (
-    <div className="w-full grid grid-cols-1 md:grid-cols-3 md:w-[80%] py-8 gap-4 bg-[#F6F9FD] text-black px-4 z-20 cursor-default">
+    <div
+      className={
+        "w-full grid grid-cols-1 md:w-[80%]  gap-y-4 md:gap-x-20  py-8 bg-[#F6F9FD] text-black px-4 z-20 cursor-default" +
+        cols
+      }
+    >
       {data.map((mark) => (
         <div
           key={mark.id}
-          className="flex flex-col gap-y-4 border rounded-lg px-4"
+          className="flex flex-col  mx-auto gap-y-4 border rounded-lg px-4 w-full"
         >
           <div className="pt-4 w-full">
             <div className="text-violet-600 bg-[#F6F9FD] rounded-lg py-1 w-1/3 text-center mx-auto text-xl border-violet-600 border-2 px-2 z-50">
@@ -85,6 +93,14 @@ export default function Card({ data }) {
                 )}
             </div>
           </div>
+          <Link href={mark.id}>
+            <a
+              style={{ zIndex: "10000 !important" }}
+              className="w-full md:w-[50%] font-bold border border-violet-600 bg-violet-600 hover:text-violet-600 hover:bg-white hover:border-violet-600 flex text-base items-center justify-center mx-auto z-50 mb-6 px-4 py-2 rounded-lg text-white"
+            >
+              İncele
+            </a>
+          </Link>
         </div>
       ))}
     </div>

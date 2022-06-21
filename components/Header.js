@@ -2,25 +2,25 @@ import React, { useRef } from "react";
 import Link from "next/link";
 import { FiMenu } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
-import { Toast } from "primereact/toast";
-
+import { useRouter } from "next/router";
 export default function Header() {
   const [show, setShow] = React.useState(false);
-  const toast = useRef(null);
-  const showInfo = () => {
-    toast.current.show({
-      severity: "info",
-      summary: "Bilgilendirme",
-      detail: "Diğer sayfalara şuan erişemiyoruz.",
-      life: 2000,
-    });
-  };
+  const router = useRouter();
+
+  let text = ["Katılmak isteyeceğiniz", "Sonraki Etkinliği", "bulun."];
+
+  if (router.pathname !== "/") {
+    text = [
+      "İncelemek istediğiniz",
+      "Etkinlik ",
+      "detaylarına aşağıdan erişebilir harita üzerinde görüntüleyebilirsiniz.",
+    ];
+  }
+  if (router.pathname === "/speakers") {
+    text = ["Konuşmayıcıya ait", "Detaylara", " aşağıda ulaşabilirsiniz."];
+  }
   return (
     <>
-      <Toast
-        ref={toast}
-        className="!absolute !top-0 md:!top-8 md:!right-8 !right-0 md:!w-auto !w-[90%]"
-      />
       <header className="flex flex-row items-center justify-between w-full bg-[#F6F9FD] text-black xl:px-40 px-4 relative">
         <Link href="/">
           <a className="hover:text-violet-600">
@@ -49,18 +49,21 @@ export default function Header() {
           </nav>
         )}
         <nav className="hidden xl:flex flex-row justify-end xl:justify-center gap-x-8">
-          <MenuItems setShow={showInfo} />
+          <MenuItems />
         </nav>
       </header>
       <h1 className="hidden xl:block text-2xl font-semibold text-center bg-[#F6F9FD] text-gray-500 pb-4 w-full">
-        Katılmak isteyeceğiniz{" "}
-        <span className="text-violet-600 font-bold">Sonraki Etkinliği</span>{" "}
-        bulun.
+        {text[0]} <span className="text-violet-600 font-bold">{text[1]} </span>
+        {text[2]}
       </h1>
     </>
   );
 }
-function MenuItems({ setShow }) {
+function MenuItems({
+  setShow = () => {
+    console.log("setShow");
+  },
+}) {
   const items = [
     "Home",
     "About",
@@ -79,7 +82,15 @@ function MenuItems({ setShow }) {
               {text}
             </button>
           ) : (
-            <Link href="/">
+            <Link
+              href={
+                text === "About"
+                  ? "/speakers"
+                  : text === "Contact"
+                  ? "https://serifcolakel.vercel.app/#contactme"
+                  : "/"
+              }
+            >
               <a
                 onClick={() => {
                   setShow((prev) => !prev);

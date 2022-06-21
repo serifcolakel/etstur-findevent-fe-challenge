@@ -8,6 +8,7 @@ import "primereact/resources/themes/md-light-indigo/theme.css"; //theme
 import "primereact/resources/primereact.min.css"; //core css
 import "primeicons/primeicons.css"; //icons
 import Search from "../components/search";
+import NextEvent from "../components/NextEvent";
 
 export default function Home({ data }) {
   return (
@@ -18,6 +19,7 @@ export default function Home({ data }) {
         <link rel="icon" href="https://i.hizliresim.com/23w0u9s.png" />
       </Head>
       <main className={styles.main}>
+        <NextEvent />
         <Search data={data} />
         <Map data={data} />
       </main>
