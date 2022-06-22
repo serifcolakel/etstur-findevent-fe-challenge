@@ -42,7 +42,7 @@ In this project, I participated in the hiring challenge competition created by e
   <summary>Screenshots of Project</summary>
   <ol>
     <li>
-        <p>Home Page</p>
+        <p>To see Live Demo : https://etstur-findevent.vercel.app/ </p>
     </li>
   </ol>
 </details>
@@ -54,7 +54,15 @@ In this section, the technologies used in the construction of the project are in
 #### Client-side
 
 - [Next JS](https://nextjs.org/) - The framework used for the front-end side of the project.
-- [TailwindCSS](https://tailwindcss.com/) - The CSS framework used for the front-end side of the project.
+- [TailwindCSS](https://tailwindcss.com/) - The CSS framework used desing the project.
+- [PrimeReact](https://www.primefaces.org/primereact/) - The React UI Component Libraries used.
+- [google-map-react](https://tomchentw.github.io/react-google-maps/)- The google map service for React.
+- [react-confetti](https://www.npmjs.com/package/react-confetti)- Confetti without the cleanup for react lib.
+- [react-icons](https://react-icons.github.io/react-icons)- Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
+- [react-slick](https://react-slick.neostack.com/)- The Last React Carousel You'll Ever Need!
+
+- [react-timer-hook](https://www.npmjs.com/package/react-timer-hook)- React timer hook is a custom react hook, built to handle timer, stopwatch, and time logic/state in your react component.
+- [@react-hook/window-size](https://www.npmjs.com/package/@react-hook/window-size)- React hooks for updating components when the size or orientation of the window changes.
 
 <!-- GETTING STARTED -->
 
@@ -116,9 +124,15 @@ _For more examples, please refer to the [NextJS Documentation](https://nextjs.or
 - [x] Added Footer page desing to the project
 - [x] Added Header page desing to the project
 - [x] Added Home page desing to the project
-- [] Add google maps to the project
-- [] Add google maps marker func. to the project
-- [] Add google maps autocomplete to the project
+- [x] Added google maps to the project
+- [x] Added google maps marker func. to the project
+- [x] Added api (location, params, search) for request Server Side & Client Side rendering to the project
+- [x] Added dummy data for the api from etstur api & modified for the project
+- [x] Added Not found page desing to the project
+- [x] Added all components (map, search, Card, CustomCarousel, Footer, Header, Layout, NextEvent etc) to the project
+- [x] Added dynamic google maps event details page to the project
+- [x] Added google maps autocomplete to the project from api request
+- [] Add Redux & context later :)
 
 See the [open issues](https://github.com/serifcolakel/etstur-findevent-fe-challenge/issues) for a full list of proposed features (and known issues).
 
