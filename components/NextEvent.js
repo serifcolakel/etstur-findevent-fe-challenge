@@ -20,7 +20,7 @@ function Timer({ expiryTimestamp }) {
     onExpire: () => console.warn("onExpire called"),
   });
   return (
-    <div className="relative border border-violet-600 bg-violet-300 p-4 w-full rounded-lg text-center flex flex-col items-center justify-content">
+    <div className="relative border border-violet-600 bg-violet-300 my-4 p-4 w-[90%] mx-auto bg-opacity-80 rounded-lg text-center flex flex-col items-center justify-content">
       <p className="text-white bg-violet-600 rounded-lg text-xl font-bold py-2 px-4 my-2 !z-50">
         Sonraki Etkinlik
       </p>
@@ -41,7 +41,6 @@ function Timer({ expiryTimestamp }) {
             {"Etkinlik Detayları"}
           </div>
         </div>
-        {/* <CustomCarousel data={[]} /> */}
         <h1 className="text-violet-600 text-xl font-bold md:py-2 text-center">
           {"Görsel Resim Sergisi"}
         </h1>
@@ -50,17 +49,6 @@ function Timer({ expiryTimestamp }) {
           Event sizlere daha iyi bir hizmet sunmak amacı ile anonim kişilerce
           düzenlenmiş olup eğlenceli vakit geçirmenize dileğiyle...
         </p>
-        {/* <div className="w-full flex flex-row items-center justify-between px-4 md:py-4 py-2 border-y-2">
-          <div className="flex flex-row gap-x-2 items-center justify-center text-xl font-bold w-1/5">
-            <FaFemale size={30} className="text-violet-200" />
-            <p className="text-violet-600">140</p>
-          </div>
-          <p className="text-xs w-1/3">Katılımcı Sayısı</p>
-          <div className="flex flex-row gap-x-2 items-center justify-center text-2xl font-bold">
-            <FaMale size={30} className="text-violet-200" />
-            <p className="text-violet-600">120</p>
-          </div>
-        </div> */}
 
         <div className="w-full flex flex-row items-center justify-between px-4 md:py-2 border-b-2">
           <GiTimeBomb size={40} className="w-1/3" />
@@ -92,14 +80,6 @@ function Timer({ expiryTimestamp }) {
             <p className="text-lg text-green-600">{"FREE"}</p>
           </div>
         </div>
-        {/* <div className="w-full flex flex-row items-center justify-between pl-4 pr-2 md:py-4">
-          <p className="text-lg w-full pl-3">Rating</p>
-          <div className="flex flex-row gap-x-1 text-yellow-400">
-            {Array.from({ length: Math.ceil(5) }).map((_, i) => (
-              <GiCursedStar key={i} size={20} />
-            ))}
-          </div>
-        </div> */}
       </div>
     </div>
   );

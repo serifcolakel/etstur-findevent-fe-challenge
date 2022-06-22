@@ -13,7 +13,7 @@ export default function Header() {
     text = [
       "İncelemek istediğiniz",
       "Etkinlik ",
-      "detaylarına aşağıdan erişebilir harita üzerinde görüntüleyebilirsiniz.",
+      "detaylarına aşağıdan erişebilir harita üzerinden konumunuza göre yol tarifi alabilirsiniz.",
     ];
   }
   if (router.pathname === "/speakers") {
@@ -52,7 +52,7 @@ export default function Header() {
           <MenuItems />
         </nav>
       </header>
-      <h1 className="hidden xl:block text-2xl font-semibold text-center bg-[#F6F9FD] text-gray-500 pb-4 w-full">
+      <h1 className="block  md:border-none border-t py-4 md:text-2xl font-semibold text-center bg-[#F6F9FD] text-gray-500 pb-4 w-full">
         {text[0]} <span className="text-violet-600 font-bold">{text[1]} </span>
         {text[2]}
       </h1>

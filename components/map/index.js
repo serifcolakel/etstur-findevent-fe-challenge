@@ -63,10 +63,10 @@ export default function Map({ data }) {
   if (!data) return null;
   return (
     <div
-      className="relative"
+      className="relative md:h-[900px] h-[400px]"
       style={{
         width: mapWindow.width,
-        height: mapWindow.height / 1.3,
+        // height: mapWindow.height / 1.3,
       }}
     >
       <BiCurrentLocation

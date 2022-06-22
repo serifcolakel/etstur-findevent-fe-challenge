@@ -7,7 +7,7 @@ import CustomCarousel from "./CustomCarousel";
 
 export default function Card({ data }) {
   let cols =
-    data.length > 10 ? ` md:grid-cols-3` : ` md:grid-cols-${data.length}`;
+    data.length > 3 ? ` md:grid-cols-3` : ` md:grid-cols-${data.length}`;
   return (
     <div
       className={

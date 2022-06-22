@@ -9,6 +9,7 @@ import { Toast } from "primereact/toast";
 export default function Search({ data }) {
   const [filteredEvents, setFilteredEvents] = React.useState([]);
   const [searchByName, setSearchByName] = React.useState("");
+  const [count, setCount] = React.useState(5);
   const [searchByCategory, setSearchByCategory] = React.useState("");
   const [searchByLocation, setSearchByLocation] = React.useState("");
   const [searchByDate, setSearchByDate] = React.useState("");
@@ -19,9 +20,20 @@ export default function Search({ data }) {
       `${process.env.NEXT_PUBLIC_BASE_URL_LOCAL}/api/search?name=${searchByName}&category=${searchByCategory}&location=${searchByLocation}&date=${searchByDate}`
     ).then((res) => res.json());
     showInfo();
-    console.log(data);
     setFilteredEvents(data);
   }
+  const [loading, setLoading] = useState(false);
+  const onLoadingClick = () => {
+    setLoading(true);
+    setTimeout(() => {
+      if (count + 10 > data.length) {
+        setCount(data.length);
+      } else {
+        setCount((prev) => prev + 10);
+      }
+      setLoading(false);
+    }, 2000);
+  };
 
   const showInfo = (
     severity = "info",
@@ -83,7 +95,6 @@ export default function Search({ data }) {
     }
   };
   const searchName = async (event) => {
-    //console.log(event.originalEvent.target.ariaLabel);
     let names = await getParams("name");
     let query = event.query;
     let _filteredTypes = [];
@@ -174,9 +185,9 @@ export default function Search({ data }) {
         </span>
         <Button
           disabled={
-            !searchByDate &&
-            !searchByLocation &&
-            !searchByName &&
+            !searchByDate ||
+            !searchByLocation ||
+            !searchByName ||
             !searchByCategory
           }
           onClick={() => getFilterEvent()}
@@ -197,7 +208,16 @@ export default function Search({ data }) {
           <Card data={filteredEvents} />
         </>
       ) : (
-        <Card data={data} />
+        <Card data={data.slice(0, count)} />
+      )}
+      {data.length !== count && (
+        <Button
+          label="Load More Events"
+          className="!bg-violet-600 !px-4 !py-2 !my-4"
+          icon="pi pi-check"
+          loading={loading}
+          onClick={onLoadingClick}
+        />
       )}
     </>
   );

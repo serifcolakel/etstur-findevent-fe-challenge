@@ -32,7 +32,7 @@ export default function CustomCarousel({ data }) {
     prevArrow: <CustomPrevArrow />,
   };
   return (
-    <div>
+    <>
       <Slider {...settings}>
         {data.length > 0 ? (
           data.map((url, idx) => (
@@ -52,6 +52,6 @@ export default function CustomCarousel({ data }) {
           />
         )}
       </Slider>
-    </div>
+    </>
   );
 }
