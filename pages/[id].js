@@ -4,9 +4,6 @@ import NoMatch from "./404";
 import Link from "next/link";
 import { FaGithub, FaGlobe, FaLinkedinIn, FaMailBulk } from "react-icons/fa";
 export default function EventDetails({ data }) {
-  if (data.error) {
-    return <NoMatch />;
-  }
   const mark = [];
   mark.push(data);
   const [speaker, setSpeaker] = useState([]);
@@ -26,6 +23,9 @@ export default function EventDetails({ data }) {
   useEffect(() => {
     setSpeaker(mark[0].speaker);
   }, []);
+  if (data.error) {
+    return <NoMatch />;
+  }
   return (
     <div className="w-full overflow-hidden text-center gap-x-10 relative">
       <div className="md:hidden flex gap-y-2 flex-col items-end z-0 pr-8 h-[800px] justify-center rounded-l-full bg-violet-500 bg-opacity-50 bottom-40 text-xs py-8 border rounded-lg w-full my-8 mx-auto  overflow-hidden text-white font-bold ">
