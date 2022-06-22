@@ -27,7 +27,7 @@ export default function EventDetails({ data }) {
     return <NoMatch />;
   }
   return (
-    <div className="w-full overflow-hidden text-center gap-x-10 relative">
+    <div className="w-full overflow-hidden text-center gap-x-10 relative pb-4">
       <div className="md:hidden flex gap-y-2 flex-col items-end z-0 pr-8 h-[800px] justify-center rounded-l-full bg-violet-500 bg-opacity-50 bottom-40 text-xs py-8 border rounded-lg w-full my-8 mx-auto  overflow-hidden text-white font-bold ">
         <p className="text-xl">Konuşmacı Bilgileri</p>
         <img
@@ -150,10 +150,10 @@ export default function EventDetails({ data }) {
         {showLeft && (
           <div
             onMouseLeave={() => handleShowLeft()}
-            className="absolute left-0 hidden md:flex flex-col items-start pr-8 justify-center rounded-r-full bg-violet-600 bg-opacity-40 top-0 text-xs py-8 border rounded-lg w-1/2 md:w-1/3 h-full mx-auto  overflow-hidden text-violet-500 font-bold"
+            className="absolute left-0 hidden md:flex flex-col items-start pr-8 justify-center rounded-r-full bg-violet-600 bg-opacity-40 top-0 text-xs py-8 border rounded-lg w-1/2 md:w-1/3 h-full mx-auto overflow-hidden text-violet-500 font-bold"
           >
             <p className="text-4xl text-white py-8">
-              Evente Katılacakların Düşünceleri
+              Etkinliğe Katılacakların Düşünceleri
             </p>
 
             <div className="w-full flex flex-col items-center justify-center px-4 md:py-2 gap-4">
@@ -180,9 +180,10 @@ export default function EventDetails({ data }) {
           </div>
         )}
       </div>
-      <div className="absolute left-0 md:hidden flex flex-col items-start pr-8 justify-center rounded-r-full bg-violet-600 bg-opacity-40 top-0 text-xs py-8 border rounded-lg w-1/2 md:w-1/3 h-full mx-auto  overflow-hidden text-violet-500 font-bold">
-        <p className="text-4xl text-white py-8">
-          Evente Katılacakların Düşünceleri
+      <div className="md:hidden flex flex-col items-start pr-12 justify-center rounded-r-full bg-violet-600 bg-opacity-40 text-xs py-8 border rounded-lg w-full h-[900px] mx-auto  overflow-hidden text-violet-500 font-bold">
+        <p className="text-xl text-white py-2 pl-4">
+          Etkinliğe Katılacakların <br />
+          Düşünceleri
         </p>
 
         <div className="w-full flex flex-col items-center justify-center px-4 md:py-2 gap-4">
