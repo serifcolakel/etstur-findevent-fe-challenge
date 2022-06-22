@@ -10,9 +10,7 @@ export default function EventDetails({ data }) {
   const mark = [];
   mark.push(data);
   const [speaker, setSpeaker] = useState([]);
-  useEffect(() => {
-    setSpeaker(mark[0].speaker);
-  }, []);
+
   const [showLeft, setShowLeft] = useState(false);
   const [showRight, setShowRight] = useState(false);
   const handleShowRight = () => {
@@ -25,6 +23,9 @@ export default function EventDetails({ data }) {
       setShowLeft(!showLeft);
     }, 300);
   };
+  useEffect(() => {
+    setSpeaker(mark[0].speaker);
+  }, []);
   return (
     <div className="w-full overflow-hidden text-center gap-x-10 relative">
       <div className="md:hidden flex gap-y-2 flex-col items-end z-0 pr-8 h-[800px] justify-center rounded-l-full bg-violet-500 bg-opacity-50 bottom-40 text-xs py-8 border rounded-lg w-full my-8 mx-auto  overflow-hidden text-white font-bold ">
